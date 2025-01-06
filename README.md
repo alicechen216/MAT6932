@@ -25,6 +25,7 @@ Implementation of the tent map approximation using various kernel methods:
 - Exponential kernel showed best overall performance
 - Gaussian kernel performed well with small σ values
 - Polynomial kernel showed consistent but higher errors
+  ![RESULT](tent_map_kernel_comparison.png)
 
 ## Project 2: Franke Function Approximation
 
