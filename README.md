@@ -45,12 +45,14 @@ Implementation of the tent map approximation using various kernel methods:
 - Optimal σ = 0.25 (RMSE: 0.0151)
 - Best balance between local and global approximation
 - Smooth error distribution
-
+![result](2_1.png)
+![result](2_2.png)
 #### Halton Sampling
 - Optimal σ = 0.1 (RMSE: 0.051057)
 - Better performance with smaller σ values
 - More uniform error distribution
-
+![result](2_3.png)
+![result](2_4.png)
 ## Requirements
 - MATLAB R2019b or later
 - MATLAB Statistics and Machine Learning Toolbox
