@@ -62,10 +62,11 @@ Implementation of the tent map approximation using various kernel methods:
 ```matlab
 tent_other_kernel.m
 Franke Function Approximation
-MATLAB
 ```
+```matlab
 FrankeApproximation.m      % For lattice sampling
 FrankeApproximation_Halton.m   % For Halton sequence sampling
+```
 ## Author
 Haowei(Alice) Chen
 
